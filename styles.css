@@ -1,0 +1,15 @@
+/* --  universal selector created to set border bottom to all the elements that exist as well as all future elements --*/
+* {
+   border-bottom: 1px solid #000000;
+}
+
+/* --  Header class created with id "top" --*/
+#top {
+    color:black  
+}
+
+/* --  Footer class created with id "footer" --*/
+#footer{
+    color:black
+}
+
